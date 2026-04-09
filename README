@@ -1,0 +1,31 @@
+# Certchain Verify
+
+## Description
+Certchain Verify is a project developed to verify certificates securely using blockchain technology. It helps in ensuring authenticity and preventing fake certificates.
+
+## Features
+- Secure certificate verification  
+- Prevents data tampering  
+- Easy to use system  
+
+## Technologies Used
+- Python  
+- Machine Learning  
+
+## Project Structure
+- main.py – Main execution file  
+- model.py – Model logic  
+- uv.lock – Dependency file  
+
+## How to Run
+1. Install required libraries  
+2. Run the following command:
+   python main.py  
+
+## Future Scope
+- Improve security features  
+- Add web interface  
+- Enhance performance  
+
+## Author
+Varsha
